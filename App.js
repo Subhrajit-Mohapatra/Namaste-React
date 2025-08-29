@@ -12,4 +12,3 @@ import ReactDOM from "react-dom/client";
 // Address
 // contact
 // information
-const root = ReactDOM.createRoot(document.getElementById("root"));
